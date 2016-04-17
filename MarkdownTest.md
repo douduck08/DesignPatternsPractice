@@ -13,10 +13,17 @@
 2. Orderd list
 3. Orderd list
 
-#### Text Block
-        Block (use 2 tab)
-        New Line
-        
 #### Line
 use ***
 ***
+
+#### Text Block
+        Block (use 2 tab)
+        New Line
+
+
+### Code Block
+use \`\`\` + language name, end with \`\`\`
+``` C++
+int a = 0
+```
