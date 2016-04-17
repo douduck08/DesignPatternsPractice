@@ -13,6 +13,10 @@
 2. Orderd list
 3. Orderd list
 
+#### Link
+<http://blog.douduck08.com/> (use\<link\>)
+[My Github](https://github.com/douduck08) (use \[name\](link))
+
 #### Line
 use ***
 ***
