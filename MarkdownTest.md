@@ -14,5 +14,5 @@
 3. Orderd list
 
 #### Text Block
-        Block (use 2 tab)<br/>
-        New Line (use \<br\/\>)
+        Block (use 2 tab)
+        New Line
