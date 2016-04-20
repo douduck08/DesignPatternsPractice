@@ -1,13 +1,16 @@
 # DesignPatternsPractice
+
 My Practicing of 23 Design Patterns
 
 ### Design Patterns of GoF
+
 #### Creational Patterns
 - Abstract Factory
 - Builder
 - Factory Method
 - Prototype
 - Singleton
+
 #### Structural Patterns
 - Adapter
 - Bridge
@@ -16,6 +19,7 @@ My Practicing of 23 Design Patterns
 - Facade
 - Flyweight
 - Proxy
+
 #### Behavioral Patterns
 - Chain of Responsibility
 - Command
