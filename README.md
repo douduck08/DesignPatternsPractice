@@ -2,7 +2,7 @@
 
 My Practicing of 23 Design Patterns
 
-### Design Patterns of GoF
+## Design Patterns of GoF
 
 #### Creational Patterns
 - Abstract Factory
