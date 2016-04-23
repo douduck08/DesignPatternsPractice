@@ -13,7 +13,7 @@ My Practicing of 23 Design Patterns
 
 #### Structural Patterns
 - Adapter
-- Bridge
+- Bridge: 將抽象與實作分離，分別擁有自己的介面。適合用於兩者關係是多對多交叉組合時。
 - Composite
 - Decorator
 - Facade: 用一個類別包覆所有需要的子系統，整合為單一個互動介面提供呼叫。
