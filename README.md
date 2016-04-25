@@ -17,7 +17,7 @@ My Practicing of 23 Design Patterns
 - Composite
 - Decorator
 - Facade: 用一個類別包覆所有需要的子系統，整合為單一個互動介面提供呼叫。
-- Flyweight
+- Flyweight: 讓一群相同的小物件共享數值。
 - Proxy
 
 #### Behavioral Patterns
