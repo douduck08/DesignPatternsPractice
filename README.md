@@ -29,7 +29,7 @@ My Practicing of 23 Design Patterns
 - Memento
 - Observer
 - State: 狀態機，使一個類別可以拆分成數個可獨立維護的狀態(情境)。有需要可對狀態類別進行狀態機的"相依性注入"。
-- Strategy
-- Template Method
+- Strategy: 將類別中的特定function封裝為另一個類別來組合，使得不同實體可以有不同的功能差異，取代if-else。
+- Template Method: 將演算法中固定的步驟封裝，只開放有變化需求的部分，使子類別實作時不需每次都重複實作相同的部分。
 - Visitor
 
