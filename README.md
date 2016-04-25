@@ -6,8 +6,8 @@ My Practicing of 23 Design Patterns
 
 #### Creational Patterns
 - Abstract Factory
-- Builder
-- Factory Method: 當物件的建立需要多個步驟，另外封裝成一個介面，將物件的建立過程獨立於外部維護。
+- Builder: 將複雜物件的建立分離，另外交由一個類別來組裝(依照參數添加member class)。
+- Factory Method: 當物件的建立需要多個步驟，另外封裝成一個介面，將物件的建立過程留到子類別來實現。Template Method的建構版。
 - Prototype
 - Singleton: 只建構一個，且方便呼叫。利用靜態成員實作，屬實作類別，類似於全域變數，要小心過度濫用。
 
