@@ -22,7 +22,7 @@ My Practicing of 23 Design Patterns
 
 #### Behavioral Patterns
 - Chain of Responsibility
-- Command
+- Command: 將執行的需求封裝成物件，讓客戶端的請求可以統一管理。
 - Interpreter
 - Iterator
 - Mediator: 子系統的溝通者，降低子系統間的相依姓。在每個子系統中實作Colleage，由某Colleage呼叫Mediator，傳送通知給其他Colleage。
