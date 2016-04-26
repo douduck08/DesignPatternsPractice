@@ -21,7 +21,7 @@ My Practicing of 23 Design Patterns
 - Proxy
 
 #### Behavioral Patterns
-- Chain of Responsibility
+- Chain of Responsibility: 將一群處理需求的類別串聯，依序傳遞來自外部的需求，直到需求被某個類別接受為止。可以取代switch。
 - Command: 將執行的需求封裝成物件，讓客戶端的請求可以統一管理。
 - Interpreter
 - Iterator
