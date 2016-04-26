@@ -14,7 +14,7 @@ My Practicing of 23 Design Patterns
 #### Structural Patterns
 - Adapter
 - Bridge: 將抽象與實作分離，分別擁有自己的介面。適合用於兩者關係是多對多交叉組合時。
-- Composite
+- Composite: 樹狀的階層管理，子節點會依賴父節點的存續。
 - Decorator
 - Facade: 用一個類別包覆所有需要的子系統，整合為單一個互動介面提供呼叫。
 - Flyweight: 讓一群小物件共享數值，用容器統一管理(共用記憶體)。
