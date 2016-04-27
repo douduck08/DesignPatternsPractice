@@ -27,7 +27,7 @@ My Practicing of 23 Design Patterns
 - Iterator
 - Mediator: 子系統的溝通者，降低子系統間的相依姓。在每個子系統中實作Colleage，由某Colleage呼叫Mediator，傳送通知給其他Colleage。
 - Memento
-- Observer
+- Observer: 一對多的事件-處理者關係，可以自由訂閱與退訂事件。
 - State: 狀態機，使一個類別可以拆分成數個可獨立維護的狀態(情境)。有需要可對狀態類別進行狀態機的"相依性注入"。
 - Strategy: 將類別中的特定function封裝為另一個類別來組合，使得不同實體可以有不同的功能差異，取代if-else。
 - Template Method: 將演算法中固定的步驟封裝，只開放有變化需求的部分，使子類別實作時不需每次都重複實作相同的部分。
