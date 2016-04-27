@@ -26,7 +26,7 @@ My Practicing of 23 Design Patterns
 - Interpreter
 - Iterator
 - Mediator: 子系統的溝通者，降低子系統間的相依姓。在每個子系統中實作Colleage，由某Colleage呼叫Mediator，傳送通知給其他Colleage。
-- Memento: 在不影響目標類別封裝的狀況下，儲存目標的狀態在外部，並且可以用於還原目標的狀態。
+- Memento: 在不影響目標類別封裝的狀況下，儲存目標的狀態在外部，並且可以用於還原目標的狀態。由於是目標類別主動進行Memento，所以可以彈性管理複數個外部儲存的狀態。
 - Observer: 一對多的事件-處理者關係，可以自由訂閱與退訂事件。
 - State: 狀態機，使一個類別可以拆分成數個可獨立維護的狀態(情境)。有需要可對狀態類別進行狀態機的"相依性注入"。
 - Strategy: 將類別中的特定function封裝為另一個類別來組合，使得不同實體可以有不同的功能差異，取代if-else。
